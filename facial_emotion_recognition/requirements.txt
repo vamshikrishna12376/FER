@@ -1,0 +1,27 @@
+# Core dependencies for Facial Emotion Recognition
+tensorflow>=2.13.0
+keras>=2.13.1
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+Pillow>=10.0.0
+
+# For data visualization and analysis
+plotly>=5.15.0
+jupyter>=1.0.0
+
+# For LLM integration (optional)
+transformers>=4.30.0
+torch>=2.0.0
+tokenizers>=0.13.0
+
+# For web deployment (optional)
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Utility packages
+tqdm>=4.65.0
+requests>=2.31.0
